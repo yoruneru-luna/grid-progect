@@ -155,38 +155,38 @@ header {
 
 .gallery__item__1 {
     grid-column: 1/3;
-    background: url(/media/people.jpg);
+    background: url(../media/people.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .gallery__item__2 {
-    background: url(/media/dress.jpg) no-repeat;
+    background: url(../media/dress.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery__item__3 {
-    background: url(/media/verh.jpg) no-repeat;
+    background: url(../media/verh.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery__item__4 {
-    background: url(/media/sport.jpg) no-repeat;
+    background: url(../media/sport.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery__item__5 {
-    background: url(/media/boots.jpg) no-repeat;
+    background: url(../media/boots.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .gallery__item__6 {
     grid-column: 3/5;
-    background: url(/media/jeanse.jpg) no-repeat;
+    background: url(../media/jeanse.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
@@ -216,22 +216,22 @@ header {
 }
 
 .catalog__item__1 {
-    background: url(/media/p1.png) no-repeat;
+    background: url(../media/p1.png) no-repeat;
     background-size: cover;
 }
 
 .catalog__item__2 {
-    background: url(/media/p2.png) no-repeat;
+    background: url(../media/p2.png) no-repeat;
     background-size: cover;
 }
 
 .catalog__item__3 {
-    background: url(/media/p3.png) no-repeat;
+    background: url(../media/p3.png) no-repeat;
     background-size: cover;
 }
 
 .catalog__item__4 {
-    background: url(/media/p4.png) no-repeat;
+    background: url(../media/p4.png) no-repeat;
     background-size: cover;
 }
 
